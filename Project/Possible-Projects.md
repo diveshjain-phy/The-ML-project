@@ -36,23 +36,23 @@ By working through these projects, you'll gain practical experience in a range o
 - Applications in emotion recognition, deepfake detection, malicious URL blocking[5][14]
 
 Citations:
-[1] https://www.linkedin.com/advice/3/what-steps-plan-computer-vision-project-skills-software-development
-[2] https://data-flair.training/blogs/computer-vision-project-ideas/
-[3] https://roboflow.com/learn
-[4] https://www.reddit.com/r/computervision/comments/va85ll/any_ideas_for_a_computer_vision_project/
-[5] https://visua.com/computer-vision-for-cyber-security
-[6] https://www.projectpro.io/article/how-to-learn-computer-vision/515
-[7] https://www.cloudfactory.com/computer-vision-guide
-[8] https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners
-[9] https://www.projectpro.io/article/computer-vision-projects/437
-[10] https://www.upgrad.com/blog/computer-vision-project-ideas-for-beginners/
-[11] https://www.geeksforgeeks.org/computer-vision/
-[12] https://www.youtube.com/watch?v=01sAkU_NvOY
-[13] https://tryolabs.com/guides/introductory-guide-computer-vision
-[14] https://pyimagesearch.com/start-here/
-[15] https://rareconnections.io/computer-vision-projects/
-[16] https://viso.ai/applications/computer-vision-applications-in-surveillance-and-security/
-[17] https://www.kdnuggets.com/2021/11/10-ai-project-ideas-computer-vision.html
-[18] https://www.v7labs.com/blog/computer-vision-project-ideas
-[19] https://www.geeksforgeeks.org/computer-vision-projects/
-[20] https://neptune.ai/blog/15-computer-visions-projects
+[1]https://www.linkedin.com/advice/3/what-steps-plan-computer-vision-project-skills-software-development
+[2]https://data-flair.training/blogs/computer-vision-project-ideas/
+[3]https://roboflow.com/learn
+[4]https://www.reddit.com/r/computervision/comments/va85ll/any_ideas_for_a_computer_vision_project/
+[5]https://visua.com/computer-vision-for-cyber-security
+[6]https://www.projectpro.io/article/how-to-learn-computer-vision/515
+[7]https://www.cloudfactory.com/computer-vision-guide
+[8]https://www.projectpro.io/data-science-in-python-tutorial/computer-vision-tutorial-for-beginners
+[9]https://www.projectpro.io/article/computer-vision-projects/437
+[10]https://www.upgrad.com/blog/computer-vision-project-ideas-for-beginners/
+[11]https://www.geeksforgeeks.org/computer-vision/
+[12]https://www.youtube.com/watch?v=01sAkU_NvOY
+[13]https://tryolabs.com/guides/introductory-guide-computer-vision
+[14]https://pyimagesearch.com/start-here/
+[15]https://rareconnections.io/computer-vision-projects/
+[16]https://viso.ai/applications/computer-vision-applications-in-surveillance-and-security/
+[17]https://www.kdnuggets.com/2021/11/10-ai-project-ideas-computer-vision.html
+[18]https://www.v7labs.com/blog/computer-vision-project-ideas
+[19]https://www.geeksforgeeks.org/computer-vision-projects/
+[20]https://neptune.ai/blog/15-computer-visions-projects
